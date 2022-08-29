@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/sasmi/Desktop/Eclipse-CS5044/dab5044.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/sasmi/Desktop/Eclipse-CS5044/dab5044-api.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/sasmi/Desktop/Eclipse-CS5044/dabgui.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/sasmi/Desktop/Eclipse-CS5044/dabgui-api.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/sasmi/Desktop/Eclipse-CS5044/dabgame-ref.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
